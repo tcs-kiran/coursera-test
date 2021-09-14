@@ -1,0 +1,13 @@
+.navbar {
+    background-color: darkmagenta;
+}
+
+.cont {
+    background-color: burlywood;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+
+h4 {
+    font-weight: bold;
+}
